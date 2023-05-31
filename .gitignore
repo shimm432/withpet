@@ -2,6 +2,7 @@
 *.class
 .metadata
 /Servers
+.Target
 
 # Log file
 *.log
